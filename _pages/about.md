@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/). 
+* Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
 
+* Pursuing MS in Computer Science--Machine Learning from [Georgia Institute of Technology](https://www.gatech.edu/) 
+
+* Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) 
+
+* Received BS in Electrical Engineering / Minor in Physics from [Dordt University](https://dordt.edu)
 
 
 A data-driven personal website
