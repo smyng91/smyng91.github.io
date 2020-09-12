@@ -25,7 +25,8 @@ Below is a short list of my research projects in no particular order.
 Building Science
 ------
 **Role:**  
-**Support:** Actively seeking for grants  
+**Support:** Actively seeking  
+**Collaborator:** Actively seeking  
 <p float="left">
   <img width="300" src="/images/research/building.gif" />
   <img width="300" src="/images/research/building_T.jpg" />
@@ -37,7 +38,8 @@ Building Science
 Design Space Exploration
 ------
 **Role:**  
-**Support:** Actively seeking for grants  
+**Support:** Actively seeking  
+**Collaborator:** Actively seeking  
 <p float="left">
   <img width="300" src="/images/research/topology_density.gif" />
   <img width="200" src="/images/research/topology_T.png" />
@@ -49,7 +51,7 @@ Design Space Exploration
 Integrated Electronics Cooling
 ------
 **Role:**  
-**Support:** Actively seeking for grants  
+**Support:** Actively seeking  
 **Collaborator:** FSU  
 <p float="left">
   <img width="300" src="/images/research/propulsion.jpg" />
@@ -97,8 +99,8 @@ Real-Time Thermal-Electrical Co-Simulations
 Renewable Energy
 ------
 **Role:**:  
-**Support:** Actively seeking for grants  
-**Collaborator:**  
+**Support:** Actively seeking  
+**Collaborator:** Actively seeking  
 <p float="left">
   <img width="300" src="/images/research/renew_PTC.jpg" />
   <img width="300" src="/images/research/renew_Ag.png" />
