@@ -16,6 +16,15 @@ redirect_from:
 
 Research Interests
 ======
+I am interested in bridging the gap between artificial intelligence, classical thermal-fluids, and renewable energy.
+<p align="left">
+  <img width="400" src="/images/research/research_summary.png" />
+</p>
+
+
+Machine learning management of complex energy systems
+------
+
 
 Thermal management of complex energy systems
 ------
