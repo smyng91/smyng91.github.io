@@ -18,7 +18,9 @@ Research Interests
 
 Thermal management of complex energy systems
 ------
-  <img align="center" src="/images/research/ship.jpg" width="400" />
+<p float="center">
+  <img width="400" src="/images/research/ship.jpg" />
+</p>
 
   Role: Research Scientist
   Support: ONR
