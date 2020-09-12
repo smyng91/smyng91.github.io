@@ -11,7 +11,6 @@ redirect_from:
 * Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
 * Pursuing MS in Computer Science--Machine Learning from [Georgia Institute of Technology](https://www.gatech.edu/) 
 * Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
-
 <br/><br/>
 
 Research Interests
