@@ -57,8 +57,9 @@ Machine Learning in Power Grid Contingency Analyses
 
 Machine Learning in Thermal-Fluid Science
 ------
-**Role:**  
-**Support:** Actively seeking for grants  
+**Role:** Principal Investigator  
+**Support:** FSU  
+**Collaborator:** Actively seeking  
 <p float="left">
   <img width="300" src="/images/research/PEBB_Umag.gif" />
   <img width="300" src="/images/research/uDNS_Re1e5.gif" />
