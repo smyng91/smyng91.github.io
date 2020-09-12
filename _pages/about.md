@@ -33,7 +33,9 @@ Building Science
 1. Propose concrete strategies to promote smart energy/exergy-efficient buildings
 2. Modeling, simulation, and optimization of HVAC systems, building orientation, usage, etc.
 
-**[Paper](https://www.sciencedirect.com/science/article/pii/S0360544218301841)**
+**Papers:**
+[Building simulation](https://www.sciencedirect.com/science/article/pii/S0360544218301841)  
+[HVAC](https://www.sciencedirect.com/science/article/pii/S135943111830927X)  
 
 Design Space Exploration
 ------
@@ -45,6 +47,7 @@ Design Space Exploration
 </p>
 1. Topology optimization using finite element models and stochastic optimization algorithms
 2. Sensitivity analysis of complex energy systems
+
 
 
 Integrated Electronics Cooling
