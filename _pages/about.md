@@ -33,6 +33,7 @@ Building Science
 1. Propose concrete strategies to promote smart energy/exergy-efficient buildings
 2. Modeling, simulation, and optimization of HVAC systems, building orientation, usage, etc.
 
+**[Paper](https://www.sciencedirect.com/science/article/pii/S0360544218301841)**
 
 Design Space Exploration
 ------
