@@ -15,9 +15,10 @@ redirect_from:
 
 Research Interests
 ======
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/images/editing-talk.png)  |  ![](/images/editing-talk.png)
+<img align="left" width='' src="/images/editing-talk.png">
+
+{% include module.html image_path="/images/editing-talk.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+
 
 Testing 
 
