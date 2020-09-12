@@ -37,7 +37,7 @@ Design Space Exploration
 **Role:**  
 **Support:** Actively seeking for grants  
 <p float="left">
-  <img width="300" src="/images/research/topology.gif" />
+  <img width="300" src="/images/research/topology_density.gif" />
   <img width="300" src="/images/research/topology_T.png" />
 </p>
 1. Topology optimization in heat transfer using volume element model and stochastic optimization algorithm.
