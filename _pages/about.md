@@ -16,7 +16,7 @@ redirect_from:
 
 Research Interests
 ======
-I am interested in bridging the gap between artificial intelligence, classical thermal-fluids, and renewable energy.
+I am interested in tackling multi-disciplinary physics problems and bridging the gap between artificial intelligence, classical thermal-fluids, and renewable energy. 
 <p align="left">
   <img src="/images/research/research_summary.png" />
 </p>
