@@ -15,8 +15,10 @@ redirect_from:
 
 Research Interests
 ======
-<img align="left" width='400' src="/images/editing-talk.png">
-Testing 
+<p float="left">
+  <img src="/images/editing-talk.png" width="100" />
+  dfadfksdf
+</p>
 
 
 
