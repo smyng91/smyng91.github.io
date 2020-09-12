@@ -15,7 +15,7 @@ redirect_from:
 
 Research Interests
 ======
-![image](/images/editing-talk.png){: style="float: left"}
+<img align="right" src="/images/editing-talk.png">
 Testing 
 
 A data-driven personal website
