@@ -50,8 +50,9 @@ Thermal management of complex energy systems
 **Role:**: Research Scientist  
 **Support:** ONR  
 **Collaborator:** MIT  
-<p align="left">
-  <img width="400" src="/images/research/ship.jpg" />
+<p float="left">
+  <img width="300" src="/images/research/ship.jpg" />
+  <img width="300" src="/images/research/ship_movie.gif" />
 </p>
 1. A dynamic system-level ship thermal management tool developed as part of ESRDC.
 2. Improve its numerical efficiency and accuracy, and develop parametric hexahedral mesh generation strategies and cooling network generation algorithm for various ship hulls.
