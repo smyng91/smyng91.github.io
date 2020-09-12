@@ -21,6 +21,29 @@ I am interested in tackling multi-disciplinary physics problems and bridging the
 </p>
 Below is a short list of my research projects in no particular order.
 
+Building Science
+------
+**Role:**  
+**Support:** Actively seeking for grants  
+<p float="left">
+  <img width="300" src="/images/research/building.gif" />
+  <img width="300" src="/images/research/building_T.jpg" />
+</p>
+1. Propose concrete strategies to promote smart energy/exergy-efficient buildings.
+2. Modeling, simulation, and optimization of HVAC systems, building orientation, usage, etc.
+
+Design Space Exploration
+------
+**Role:**  
+**Support:** Actively seeking for grants  
+<p float="left">
+  <img width="300" src="/images/research/topology.gif" />
+  <img width="300" src="/images/research/topology_T.png" />
+</p>
+1. Topology optimization in heat transfer using volume element model and stochastic optimization algorithm.
+2. Sensitivity analysis of complex energy systems.
+
+
 Machine Learning in Power Grid Contingency Analyses
 ------
 **Role:** Principal Investigator  
