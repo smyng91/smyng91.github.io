@@ -131,7 +131,7 @@ Renewable Energy
 [Transparent insulation materials](https://www.sciencedirect.com/science/article/pii/S0038092X17301688),
 [Biohydrogen](https://asmedigitalcollection.asme.org/verification/article-abstract/4/2/021002/975559),
 [Photobioreactor](https://www.sciencedirect.com/science/article/pii/S0960148118303331),
-Patent under review/
+Patent under review
 
 
 Thermal Management of Shipboard Energy Systems
