@@ -44,7 +44,7 @@ Design Space Exploration
   <img width="300" src="/images/research/topology_density.gif" />
   <img width="200" src="/images/research/topology_T.png" />
 </p>
-1. Topology optimization in heat transfer using volume element model and stochastic optimization algorithm
+1. Topology optimization using finite element models and stochastic optimization algorithms
 2. Sensitivity analysis of complex energy systems
 
 
@@ -68,7 +68,7 @@ Machine Learning in Power Grid Contingency Analyses
 <p align="left">
   <img width="400" src="/images/research/SCANN_logo.png" />
 </p>
-1. Development of deep learning-based contingency analysis framework for power grid contingency analyses
+1. Development of a zero shot, deep learning-based contingency analysis framework for power grid contingency analyses
 2. Development of a novel contigency metric for large power grids
 
 
@@ -85,6 +85,7 @@ Machine Learning in Thermal-Fluid Science
 2. MF models are constructed by combining data-driven (or high-fidelity) and low-fidelity models using Gaussian Process or Polynomial Chaos Expansion
 3. Use HPC for high-fidelity simulations and sampling
 4. Super-resolution reconstruction of flow fields using neural networks
+5. Physics-informed neural networks
 
 
 Real-Time Thermal-Electrical Co-Simulations
@@ -110,7 +111,7 @@ Renewable Energy
 3. Comparative assessment of distributed vs. centralized renewable energy systems
 
 
-Thermal management of complex energy systems
+Thermal Management of Shipboard Energy Systems
 ------
 **Role:**: Research Scientist  
 **Support:** ONR  
@@ -119,20 +120,6 @@ Thermal management of complex energy systems
   <img width="300" src="/images/research/ship.jpg" />
   <img width="300" src="/images/research/ship_movie.gif" />
 </p>
-1. A dynamic system-level ship thermal management tool developed as part of ESRDC
+1. Development of a dynamic system-level ship thermal management tool
 2. Improve its numerical efficiency and accuracy, and develop parametric hexahedral mesh generation strategies and cooling network generation algorithm for various ship hulls
 
-
-
-
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
