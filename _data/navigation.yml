@@ -5,7 +5,8 @@ main:
     url: /about/
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=L18W_boAAAAJ&hl=en
+    # url: /publications/
 
   # - title: "Talks"
     # url: /talks/    
@@ -17,7 +18,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://www.dropbox.com/s/lg5yi1jt5s8l93z/cv.pdf?dl=0
+    # url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
