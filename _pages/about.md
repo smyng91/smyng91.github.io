@@ -24,7 +24,6 @@ Below is a short list of my research projects in no particular order.
 
 Building Science
 ------
-**Role:**  
 **Support:** Actively seeking  
 **Collaborator:** Actively seeking  
 <p float="left">
@@ -37,7 +36,6 @@ Building Science
 
 Design Space Exploration
 ------
-**Role:**  
 **Support:** Actively seeking  
 **Collaborator:** Actively seeking  
 <p float="left">
@@ -50,7 +48,6 @@ Design Space Exploration
 
 Integrated Electronics Cooling
 ------
-**Role:**  
 **Support:** Actively seeking  
 **Collaborator:** FSU  
 <p float="left">
@@ -99,7 +96,6 @@ Real-Time Thermal-Electrical Co-Simulations
 
 Renewable Energy
 ------
-**Role:**:  
 **Support:** Actively seeking  
 **Collaborator:** Actively seeking  
 <p float="left">
