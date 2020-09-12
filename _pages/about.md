@@ -16,7 +16,7 @@ redirect_from:
 Research Interests
 ======
 <p float="left">
-  <img src="/images/editing-talk.png" width="100" />
+  <img src="/images/editing-talk.png" width="400" />
   dfadfksdf
 </p>
 
