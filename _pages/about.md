@@ -55,6 +55,7 @@ Design Space Exploration
 [Cooling channel layout optimization](https://asmedigitalcollection.asme.org/heattransfer/article-abstract/141/11/112502/975439/Optimal-Cooling-Channel-Layout-in-a-Hot-Enclosure?redirectedFrom=fulltext),
 [Solenoid optimization](https://ieeexplore.ieee.org/abstract/document/7397953)
 
+
 Integrated Electronics Cooling
 ------
 **Support:** Actively seeking  
@@ -64,6 +65,11 @@ Integrated Electronics Cooling
 </p>
 1. Propose novel passive / active integrated electronics cooling solutions
 2. Development of high power density integrated motor-drive systems for electric aircraft with the patent-pending filterless inverter design
+
+**Paper:** 
+[PEBB cooling survey](https://ieeexplore.ieee.org/abstract/document/8847810),
+[PEBB simulation](https://www.sciencedirect.com/science/article/pii/S1359431113004936),
+**Patent under review**
 
 
 Machine Learning in Power Grid Contingency Analyses
@@ -102,6 +108,9 @@ Real-Time Thermal-Electrical Co-Simulations
 1. Develop soft real-time thermal-fluid models in MATLAB/Simulink and couple them to power system models in RSCAD for real-time co-simulations
 2. Integration of reduced-order battery models for real-time energy storage modeling
 
+**Paper:** 
+[Real-time system-level simulation](https://ieeexplore.ieee.org/abstract/document/6523715)
+
 
 Renewable Energy
 ------
@@ -114,6 +123,15 @@ Renewable Energy
 1. Develop mathematical models of parabolic trough solar collectors, flat-plate collectors, geothermal HVAC system, solar distillation system, etc.
 2. Investigate novel heat transfer fluids and receiver designs for solar collectors
 3. Comparative assessment of distributed vs. centralized renewable energy systems
+
+**Papers:**  
+[PTC model](https://www.sciencedirect.com/science/article/pii/S0306261918302241),
+[PTC wavy design](https://www.sciencedirect.com/science/article/pii/S0360544219320158),
+[Solar HTF](https://ieeexplore.ieee.org/abstract/document/7897145),
+[Transparent insulation materials](https://www.sciencedirect.com/science/article/pii/S0038092X17301688),
+[Biohydrogen](https://asmedigitalcollection.asme.org/verification/article-abstract/4/2/021002/975559),
+[Photobioreactor](https://www.sciencedirect.com/science/article/pii/S0960148118303331),
+**Patent under review**
 
 
 Thermal Management of Shipboard Energy Systems
