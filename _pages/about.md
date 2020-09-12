@@ -19,7 +19,7 @@ Research Interests
 Thermal management of complex energy systems
 ------
 <p float="left">
-  <img src="/images/research/ship.jpg" width="400" />
+  <img align="center" src="/images/research/ship.jpg" width="400" />
   Role: Research Scientist
   Support: ONR
   1. A dynamic system-level ship thermal management tool developed as part of ESRDC.
