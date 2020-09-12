@@ -15,11 +15,7 @@ redirect_from:
 
 Research Interests
 ======
-<img align="left" width='' src="/images/editing-talk.png">
-
-{% include module.html image_path="/images/editing-talk.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
-
-
+<img align="left" width='50' src="/images/editing-talk.png">
 Testing 
 
 A data-driven personal website
