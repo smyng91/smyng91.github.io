@@ -22,8 +22,8 @@ Thermal management of complex energy systems
   <img width="400" src="/images/research/ship.jpg" />
 </p>
 
-Role: Research Scientist  
-Support: ONR  
+**Role**: Research Scientist  
+**Support**: ONR  
 1. A dynamic system-level ship thermal management tool developed as part of ESRDC.
 2. Improve its numerical efficiency and accuracy, and develop parametric hexahedral mesh generation strategies and cooling network generation algorithm for various ship hulls.
 Collaborator: FSU, MIT, USC
