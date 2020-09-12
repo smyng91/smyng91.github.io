@@ -146,3 +146,8 @@ Thermal Management of Shipboard Energy Systems
 1. Development of a dynamic system-level ship thermal management tool
 2. Improve its numerical efficiency and accuracy, and develop parametric hexahedral mesh generation strategies and cooling network generation algorithm for various ship hulls
 
+**Papers:**  
+[Electromagnetic launcher model](https://www.sciencedirect.com/science/article/pii/S0196890417311767),
+[Ship mesh](https://www.sciencedirect.com/science/article/pii/S0965997815001155),
+[Ship thermal model](https://www.sciencedirect.com/science/article/pii/S0965997816301302),
+[Shipboard integrated energy system](https://www.sciencedirect.com/science/article/pii/S1359431118346660)
