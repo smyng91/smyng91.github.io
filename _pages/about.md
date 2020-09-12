@@ -15,7 +15,10 @@ redirect_from:
 
 Research Interests
 ======
-<img align="right" src="/images/editing-talk.png">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/editing-talk.png)  |  ![](/images/editing-talk.png)
+
 Testing 
 
 A data-driven personal website
