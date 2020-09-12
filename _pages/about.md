@@ -18,7 +18,7 @@ Research Interests
 
 Thermal management of complex energy systems
 ------
-<p float="center">
+<p align="center">
   <img width="400" src="/images/research/ship.jpg" />
 </p>
 
