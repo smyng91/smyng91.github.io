@@ -37,8 +37,8 @@ Machine Learning in Thermal-Fluid Science
 **Role:**  
 **Support:** Actively seeking for grants  
 <p float="left">
-  <img width="400" src="/images/research/PEBB_Umag.gif" />
-  <img width="400" src="/images/research/uDNS_Re1e5.gif" />
+  <img width="300" src="/images/research/PEBB_Umag.gif" />
+  <img width="300" src="/images/research/uDNS_Re1e5.gif" />
 </p>
 1. Develop multi-fidelity (MF) models for thermal management of PEBBs, buildings, etc.
 2. MF models are constructed by combining data-driven (or high-fidelity) and low-fidelity models using Gaussian Process or Polynomial Chaos Expansion.
