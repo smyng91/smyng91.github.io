@@ -33,9 +33,12 @@ Building Science
 1. Propose concrete strategies to promote smart energy/exergy-efficient buildings
 2. Modeling, simulation, and optimization of HVAC systems, building orientation, usage, etc.
 
-**Papers:**
-[Building simulation](https://www.sciencedirect.com/science/article/pii/S0360544218301841)  
-[HVAC](https://www.sciencedirect.com/science/article/pii/S135943111830927X)  
+**Papers:** 
+[Building simulation](https://www.sciencedirect.com/science/article/pii/S0360544218301841), 
+[Constructal design](https://www.sciencedirect.com/science/article/pii/S0017931017307457),
+[Geothermal HVAC](https://www.sciencedirect.com/science/article/pii/S2213138819304849),
+[HVAC optimization](https://www.sciencedirect.com/science/article/pii/S135943111830927X)
+
 
 Design Space Exploration
 ------
@@ -48,7 +51,9 @@ Design Space Exploration
 1. Topology optimization using finite element models and stochastic optimization algorithms
 2. Sensitivity analysis of complex energy systems
 
-
+**Papers:** 
+[Cooling channel layout optimization](https://asmedigitalcollection.asme.org/heattransfer/article-abstract/141/11/112502/975439/Optimal-Cooling-Channel-Layout-in-a-Hot-Enclosure?redirectedFrom=fulltext),
+[Solenoid optimization](https://ieeexplore.ieee.org/abstract/document/7397953)
 
 Integrated Electronics Cooling
 ------
