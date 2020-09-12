@@ -29,8 +29,8 @@ Machine Learning in Power Grid Contingency Analyses
 <p align="left">
   <img width="400" src="/images/research/SCANN_logo.png" />
 </p>
-(1) Development of deep learning-based contingency analysis framework for power grid contingency analyses.
-(2) Development of a novel contigency metric for large power grids.
+1. Development of deep learning-based contingency analysis framework for power grid contingency analyses.
+2. Development of a novel contigency metric for large power grids.
 
 Machine Learning in Thermal-Fluid Science
 ------
@@ -39,10 +39,10 @@ Machine Learning in Thermal-Fluid Science
 <p align="left">
   <img width="400" src="/images/research/PEBB_Umag.gif" />
 </p>
-(1) Develop multi-fidelity (MF) models for thermal management of PEBBs, buildings, etc.
-(2) MF models are constructed by combining data-driven (or high-fidelity) and low-fidelity models using Gaussian Process or Polynomial Chaos Expansion.
-(3) Use HPC for high-fidelity simulations and sampling.
-(4) Super-resolution reconstruction of flow fields using neural networks.
+1. Develop multi-fidelity (MF) models for thermal management of PEBBs, buildings, etc.
+2. MF models are constructed by combining data-driven (or high-fidelity) and low-fidelity models using Gaussian Process or Polynomial Chaos Expansion.
+3. Use HPC for high-fidelity simulations and sampling.
+4. Super-resolution reconstruction of flow fields using neural networks.
 
 Thermal management of complex energy systems
 ------
