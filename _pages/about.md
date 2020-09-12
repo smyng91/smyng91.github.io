@@ -24,8 +24,8 @@ Below is a short list of my research projects in no particular order.
 Machine Learning in Power Grid Contingency Analyses
 ------
 **Role:** Principal Investigator  
-**Support:** US DOE
-**Collaborator:** INL
+**Support:** US DOE  
+**Collaborator:** INL  
 <p align="left">
   <img width="400" src="/images/research/SCANN_logo.png" />
 </p>
@@ -34,8 +34,8 @@ Machine Learning in Power Grid Contingency Analyses
 
 Machine Learning in Thermal-Fluid Science
 ------
-**Role:** 
-**Support:** Actively seeking for grants
+**Role:**  
+**Support:** Actively seeking for grants  
 <p align="left">
   <img width="400" src="/images/research/PEBB_Umag.gif" />
 </p>
@@ -48,7 +48,7 @@ Thermal management of complex energy systems
 ------
 **Role:**: Research Scientist  
 **Support:** ONR  
-**Collaborator:** MIT
+**Collaborator:** MIT  
 <p align="left">
   <img width="400" src="/images/research/ship.jpg" />
 </p>
