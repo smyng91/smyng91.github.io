@@ -138,7 +138,7 @@ Thermal Management of Shipboard Energy Systems
 ------
 **Role:**: Research Scientist  
 **Support:** ONR  
-**Collaborator:** MIT  
+**Collaborator:** MIT/VaTech  
 <p float="left">
   <img width="300" src="/images/research/ship.jpg" />
   <img width="300" src="/images/research/ship_movie.gif" />
