@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SAM YANG, PhD | EIT | LEED GA"
+title                    : "SAM YANG, PhD | EIT"
 title_separator          : "-"
 name                     : &name "Sam Yang"
 description              : &description "Research Faculty at Florida State University Center for Advanced Power Systems; currently pursuing MS in CS-Machine Learning from GaTech."
