@@ -15,7 +15,7 @@ redirect_from:
 
 News
 ======
-* My collaboration with INL just won $1.5M Laboratory Directed Research and Development (LDRD) grant from the DE!
+* My joint proposal with INL won $1.5M Laboratory Directed Research and Development (LDRD) grant from the DE! This will be a 3-year project starting in October 2021.
 
 Research Interests
 ======
