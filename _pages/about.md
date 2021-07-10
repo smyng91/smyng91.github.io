@@ -15,7 +15,7 @@ redirect_from:
 
 News
 ======
-* 06/2021: My joint proposal with INL was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
+* 06/2021: My joint proposal with INL entitled "Interdependent Infrastructure Systems Resilience Analysis for Enhanced Microreactor Power Grid Penetration" was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
 <br/><br/>
 
 Research Interests
