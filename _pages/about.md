@@ -13,6 +13,10 @@ redirect_from:
 * Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
 <br/><br/>
 
+News
+======
+* My collaboration with INL just won $1.5M Laboratory Directed Research and Development (LDRD) grant from the DE!
+
 Research Interests
 ======
 I am interested in tackling multi-disciplinary physics problems and bridging the gap between artificial intelligence, classical thermal-fluids, and renewable energy. 
