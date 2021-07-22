@@ -67,14 +67,14 @@ Design Space Exploration
 
 Integrated Electronics Cooling
 ------
-**Role:**: Research Scientist  
+**Role:** Research Scientist  
 **Support:** ONR 
-**Collaborator:** FSU, VT, USC
+**Collaborator:** FSU, VT, MIT, USC
 <p float="left">
   <img width="300" src="/images/research/propulsion.jpg" />
 </p>
 1. Propose novel passive / active integrated electronics cooling solutions
-2. Development of high power density integrated motor-drive systems for electric aircraft with the patent-pending filterless inverter design
+2. Develop set-based thermal design framework for high-power next generation PEBBs
 
 **Papers:** 
 [PEBB cooling survey](https://ieeexplore.ieee.org/abstract/document/8847810),
