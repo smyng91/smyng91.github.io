@@ -16,6 +16,7 @@ redirect_from:
 News
 ======
 * 06/2021: My joint proposal with INL entitled "Interdependent Infrastructure Systems Resilience Analysis for Enhanced Microreactor Power Grid Penetration" was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
+* 01/2020: My collaboration wtih Seoul National University on geothermal heat pump modeling has been published in Elsevier's Sustainable Energy Technologies and Assessments. [Check it out here!](https://www.sciencedirect.com/science/article/pii/S2213138819304849)
 * 01/2020: My joint proposal with INL entitled "Smart Contingency Analysis Neural Network (SCANN) for In-Depth Power Grid Vulnerability Analyses" was selected for $140k Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 1-year project starting in April 2020.
 <br/><br/>
 
@@ -167,9 +168,9 @@ Thermal Management of Shipboard Energy Systems
 Collaborators
 ======
 <p float="left">
-  <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" />
-  <img width="300" src="https://abcnews4.com/resources/media/f4369747-6ca4-496c-9243-5e9e9a0f3089-large16x9_UniversityofSouthCarolinaFormalLogo16x9.jpg?1588787948394" /> 
-  <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/2560px-Virginia_Tech_Hokies_logo.svg.png" />
-  <img width="300" src="https://inl-gov.imgix.net/2019/02/11-INL_Logo.jpg?auto=compress%2Cformat&ixlib=php-3.3.0" />
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" />
+  <img width="150" src="https://abcnews4.com/resources/media/f4369747-6ca4-496c-9243-5e9e9a0f3089-large16x9_UniversityofSouthCarolinaFormalLogo16x9.jpg?1588787948394" /> 
+  <img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/2560px-Virginia_Tech_Hokies_logo.svg.png" />
+  <img width="150" src="https://inl-gov.imgix.net/2019/02/11-INL_Logo.jpg?auto=compress%2Cformat&ixlib=php-3.3.0" />
 </p>
 
