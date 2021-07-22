@@ -28,7 +28,7 @@ I am interested in tackling multi-disciplinary physics problems and bridging the
 <p align="left">
   <img src="/images/research/research_summary.png" />
 </p>
-Below is a short list of my research projects in no particular order.
+Below is a short list of my research projects in alphabetical order.
 
 
 Building Science
