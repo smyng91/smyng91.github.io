@@ -16,6 +16,7 @@ redirect_from:
 News
 ======
 * 06/2021: My joint proposal with INL entitled "Interdependent Infrastructure Systems Resilience Analysis for Enhanced Microreactor Power Grid Penetration" was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
+* 01/2020: My joint proposal with INL entitled "Smart Contingency Analysis Neural Network (SCANN) for In-Depth Power Grid Vulnerability Analyses" was selected for $140k Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 1-year project starting in April 2020.
 <br/><br/>
 
 Research Interests
