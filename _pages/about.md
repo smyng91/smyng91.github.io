@@ -48,8 +48,8 @@ Building Science
 
 Design Space Exploration
 ------
-**Support:** Actively seeking  
-**Collaborator:** Actively seeking  
+**Support:** Actively seeking
+**Collaborator:** Actively seeking
 <p float="left">
   <img width="300" src="/images/research/topology_density.gif" />
   <img width="200" src="/images/research/topology_T.png" />
@@ -64,8 +64,9 @@ Design Space Exploration
 
 Integrated Electronics Cooling
 ------
-**Support:** Actively seeking  
-**Collaborator:** FSU  
+**Role:**: Research Scientist  
+**Support:** ONR 
+**Collaborator:** FSU, VT, USC
 <p float="left">
   <img width="300" src="/images/research/propulsion.jpg" />
 </p>
@@ -146,7 +147,7 @@ Thermal Management of Shipboard Energy Systems
 ------
 **Role:**: Research Scientist  
 **Support:** ONR  
-**Collaborator:** MIT/VaTech  
+**Collaborator:** MIT  
 <p float="left">
   <img width="300" src="/images/research/ship.jpg" />
   <img width="300" src="/images/research/ship_movie.gif" />
@@ -159,3 +160,16 @@ Thermal Management of Shipboard Energy Systems
 [Ship mesh](https://www.sciencedirect.com/science/article/pii/S0965997815001155),
 [Ship thermal model](https://www.sciencedirect.com/science/article/pii/S0965997816301302),
 [Shipboard integrated energy system](https://www.sciencedirect.com/science/article/pii/S1359431118346660)
+
+<br/><br/>
+
+
+Collaborators
+======
+<p float="left">
+  <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1280px-MIT_logo.svg.png" />
+  <img width="300" src="https://abcnews4.com/resources/media/f4369747-6ca4-496c-9243-5e9e9a0f3089-large16x9_UniversityofSouthCarolinaFormalLogo16x9.jpg?1588787948394" /> 
+  <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/2560px-Virginia_Tech_Hokies_logo.svg.png" />
+  <img width="300" src="https://inl-gov.imgix.net/2019/02/11-INL_Logo.jpg?auto=compress%2Cformat&ixlib=php-3.3.0" />
+</p>
+
