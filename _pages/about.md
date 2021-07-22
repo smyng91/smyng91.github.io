@@ -68,8 +68,8 @@ Design Space Exploration
 Integrated Electronics Cooling
 ------
 **Role:** Research Scientist  
-**Support:** ONR 
-**Collaborator:** FSU, VT, MIT, USC
+**Support:** ONR  
+**Collaborator:** FSU, VT, MIT, USC  
 <p align="left">
   <img width="300" src="/images/research/propulsion.jpg" />
 </p>
