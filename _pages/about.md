@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* 07/2021 **PATENT**: Check out our patent entitled *Integrated thermal-electrical component for power electronics converters.* [Patent][https://patents.google.com/patent/US20210168965A1/en]
 * 06/2021 **GRANT**: My joint proposal with INL entitled "Interdependent Infrastructure Systems Resilience Analysis for Enhanced Microreactor Power Grid Penetration" was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
 * 05/2021 **STUDENT**: Jessica Moorefield (FSU, major in CS & English) has successufully finished her UROP. Her work on physics-informed neural networks will be published soon.
 * 03/2021 **PAPER**: Our work on superconducting system thermal-hydraulic modeling has been published in IEEE Transactions on Applied Superconductivity. [Paper](https://ieeexplore.ieee.org/abstract/document/9390217)
