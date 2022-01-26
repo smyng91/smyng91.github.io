@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* 01/2022 **PAPER**: My paper entitled *solar-driven liquid air power plant modeling, design space exploration, and multi-objective optimization* has been accepted to be published in Energy.
 * 01/2022 **PAPER**: Check out our recent paper on thermal modeling and simulation of electronics published in SAGE Simulation. [Paper](https://journals.sagepub.com/doi/full/10.1177/00375497211069979)
 * 10/2021 **PATENT**: Check out our patent entitled *Solar energy collection system with symmetric wavy absorber pipe.* [Patent](https://uspto.report/patent/app/20210310699)
 * 07/2021 **PATENT**: Check out our patent entitled *Integrated thermal-electrical component for power electronics converters.* [Patent](https://patents.google.com/patent/US20210168965A1/en)
