@@ -23,11 +23,12 @@ News
 * 06/2021 **GRANT**: My joint proposal with INL entitled *Interdependent Infrastructure Systems Resilience Analysis for Enhanced Microreactor Power Grid Penetration* was selected for $1.5M Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 3-year project starting in October 2021.
 * 05/2021 **STUDENT**: [Jessica Moorefield](mailto:jm19n@my.fsu.edu) (FSU, major in CS & English) has successufully finished her UROP. Her work on physics-informed neural networks will be published soon.
 <details>
-  <summary>Click to expand!</summary>
+  <summary>READ MORE!</summary>
   
-  * 03/2021 **PAPER**: Our work on superconducting system thermal-hydraulic modeling has been published in IEEE Transactions on Applied Superconductivity. [Paper](https://ieeexplore.ieee.org/abstract/document/9390217)
-  * 01/2020 **PAPER**: My collaboration wtih Seoul National University on geothermal heat pump modeling has been published in Elsevier's Sustainable Energy Technologies and Assessments. [Paper](https://www.sciencedirect.com/science/article/pii/S2213138819304849)
-  * 01/2020 **GRANT**: My joint proposal with INL entitled *Smart Contingency Analysis Neural Network (SCANN) for In-Depth Power Grid Vulnerability Analyses* was selected for $140k Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 1-year project starting in April 2020.
+* 03/2021 **PAPER**: Our work on superconducting system thermal-hydraulic modeling has been published in IEEE Transactions on Applied Superconductivity. [Paper](https://ieeexplore.ieee.org/abstract/document/9390217)
+* 01/2020 **PAPER**: My collaboration wtih Seoul National University on geothermal heat pump modeling has been published in Elsevier's Sustainable Energy Technologies and Assessments. [Paper](https://www.sciencedirect.com/science/article/pii/S2213138819304849)
+* 01/2020 **GRANT**: My joint proposal with INL entitled *Smart Contingency Analysis Neural Network (SCANN) for In-Depth Power Grid Vulnerability Analyses* was selected for $140k Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 1-year project starting in April 2020.
+
 </details>
 <br/><br/>
 
