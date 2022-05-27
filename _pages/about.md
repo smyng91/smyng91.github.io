@@ -100,7 +100,8 @@ Machine Learning in Power Grid Contingency Analyses
 2. Development of a novel contigency metric for large power grids
 
 **Paper:** 
-[Machine learning in power grid analyses](https://www.researchgate.net/publication/343657789_Power_Grid_Contingency_Analysis_with_Machine_Learning_A_Brief_Survey_and_Prospectss)
+[Machine learning in power grid analyses](https://www.researchgate.net/publication/343657789_Power_Grid_Contingency_Analysis_with_Machine_Learning_A_Brief_Survey_and_Prospectss),
+[Multi-fidelity power flow solver](https://arxiv.org/abs/2205.13362)
 
 Machine Learning in Thermal-Fluid Science
 ------
