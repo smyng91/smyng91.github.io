@@ -28,7 +28,9 @@ News
   <summary>Read more!</summary>
 
 * 03/2021 **PAPER**: Our work on superconducting system thermal-hydraulic modeling has been published in IEEE Transactions on Applied Superconductivity. [Paper](https://ieeexplore.ieee.org/abstract/document/9390217)
+
 * 01/2020 **PAPER**: My collaboration wtih Seoul National University on geothermal heat pump modeling has been published in Elsevier's Sustainable Energy Technologies and Assessments. [Paper](https://www.sciencedirect.com/science/article/pii/S2213138819304849)
+
 * 01/2020 **GRANT**: My joint proposal with INL entitled *Smart Contingency Analysis Neural Network (SCANN) for In-Depth Power Grid Vulnerability Analyses* was selected for $140k Laboratory Directed Research and Development (LDRD) award from the U.S. Department of Energy! This will be a 1-year project starting in April 2020.
 
 </details>
