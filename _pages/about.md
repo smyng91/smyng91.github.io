@@ -10,7 +10,7 @@ redirect_from:
 
 * Senior Research Scientist at [NextEra Analytics](https://www.nexteraenergy.com/)
 * Pursuing MS in Computer Science--Machine Learning from [Georgia Institute of Technology](https://www.gatech.edu/) 
-<!-- * Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/) -->
+* Former Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
 * Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
 <br/><br/>
 
