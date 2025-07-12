@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Senior Research Scientist at [NextEra Analytics](https://www.nexteraenergy.com/)
+* Principal Research Scientist at [NextEra Analytics](https://www.nexteraenergy.com/)
 * Pursuing MS in Computer Science--Machine Learning from [Georgia Institute of Technology](https://www.gatech.edu/) 
 * Former Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
 * Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
@@ -17,7 +17,7 @@ redirect_from:
 News
 ======
 
-* 09/2022 **NEW JOB**: I've joined [NextEra Analytics](https://www.nexteraenergy.com/) in St. Paul, MN as Senior Research Scientist! 
+* 09/2022 **NEW JOB**: I've joined [NextEra Analytics](https://www.nexteraenergy.com/) in St. Paul, MN as Principal Research Scientist! 
 * 05/2022 **PAPER**: Check out our latest paper entitled *multi-fidelity power flow solver* submitted to IEEE ResWeek 2022. [Paper](https://arxiv.org/abs/2205.13362)
 * 02/2022 **PAPER**: Check out my recent paper entitled *solar-driven liquid air power plant modeling, design space exploration, and multi-objective optimization* published in Energy. [Paper](https://doi.org/10.1016/j.energy.2022.123324)
 * 01/2022 **PAPER**: Check out our paper on thermal modeling and simulation of electronics published in SAGE Simulation. [Paper](https://journals.sagepub.com/doi/full/10.1177/00375497211069979)

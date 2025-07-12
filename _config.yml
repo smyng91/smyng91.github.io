@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SAM YANG, PhD | EIT"
 title_separator          : "-"
 name                     : &name "Sam Yang"
-description              : &description "Senior Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
+description              : &description "Principal Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
 url                      : https://smyng91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smyng91.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Yang"
   avatar           : "profile.png"
-  bio              : "Senior Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
+  bio              : "Principal Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
   location         : "Twin Cities, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
