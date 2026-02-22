@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SAM YANG, PhD | EIT"
 title_separator          : "-"
 name                     : &name "Sam Yang"
-description              : &description "Principal Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
+description              : &description "Lead Project Manager at NextEra Energy Transmission."
 url                      : https://smyng91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smyng91.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Yang"
   avatar           : "profile.png"
-  bio              : "Principal Research Scientist at NextEra Analytics; currently pursuing MS in CS-Machine Learning from GaTech."
-  location         : "Twin Cities, MN"
+  bio              : "Lead Project Manager at NextEra Energy Transmission."
+  location         : "Austin, TX (Remote)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=L18W_boAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "syang@caps.fsu.edu"
+  email            : "smyng91@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sam_Yang2"
   uri              :
   bitbucket        :
