@@ -11,8 +11,7 @@ redirect_from:
 * Lead Project Manager at [NextEra Energy Transmission](https://www.nexteraenergy.com/)
 * Former Principal Data Scientist at [NextEra Analytics](https://www.nexteraenergy.com/)
 * Former Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
-* Received PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//) and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
-* Received MS in Computer Science--Artificial Intelligence from [Georgia Institute of Technology](https://www.gatech.edu/)
+* PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//), MS in Computer Science--Artificial Intelligence from [Georgia Institute of Technology](https://www.gatech.edu/), and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
 <br/><br/>
 
 News
