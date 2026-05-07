@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Lead Project Manager at [NextEra Energy Transmission](https://www.nexteraenergy.com/)
+* Principal Solutions Project Lead at [NextEra Energy Transmission](https://www.nexteraenergy.com/)
 * Former Principal Data Scientist at [NextEra Analytics](https://www.nexteraenergy.com/)
 * Former Research Faculty at [Florida State University](https://www.fsu.edu//) [Center for Advanced Power Systems](https://www.caps.fsu.edu/)
 * PhD in Mechanical Engineering from [Florida State University](https://www.fsu.edu//), MS in Computer Science--Artificial Intelligence from [Georgia Institute of Technology](https://www.gatech.edu/), and BS in Electrical Engineering / minor in Physics from [Dordt University](https://dordt.edu)
@@ -17,7 +17,7 @@ redirect_from:
 News
 ======
 
-* 02/2026 **NEW JOB**: I've joined [NextEra Energy Transmission](https://www.nexteraenergy.com/) as Lead Project Manager! 
+* 02/2026 **NEW JOB**: I've joined [NextEra Energy Transmission](https://www.nexteraenergy.com/) as Principal Solutions Project Lead! 
 * 05/2025 **PROMOTION**: I've been promoted to Principal Data Scientist! 
 * 09/2022 **NEW JOB**: I've joined [NextEra Analytics](https://www.nexteraenergy.com/) in St. Paul, MN as Senior Research Scientist! 
 * 05/2022 **PAPER**: Check out our latest paper entitled *multi-fidelity power flow solver* submitted to IEEE ResWeek 2022. [Paper](https://arxiv.org/abs/2205.13362)

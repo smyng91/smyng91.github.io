@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SAM YANG, PhD | EIT"
 title_separator          : "-"
 name                     : &name "Sam Yang"
-description              : &description "Lead Project Manager at NextEra Energy Transmission."
+description              : &description "Principal Solutions Project Lead at NextEra Energy Transmission."
 url                      : https://smyng91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smyng91.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Yang"
   avatar           : "profile.png"
-  bio              : "Lead Project Manager at NextEra Energy Transmission."
+  bio              : "Principal Solutions Project Lead at NextEra Energy Transmission."
   location         : "Austin, TX (Remote)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
